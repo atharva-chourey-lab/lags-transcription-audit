@@ -1,5 +1,7 @@
 # The Transcripts Were Never There: A Full-Pile Audit of the Linguistic Atlas of the Gulf States Web Archive, and a Failed Calibration for ASR Re-Transcription
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24409285.svg)](https://doi.org/10.5281/zenodo.24409285)
+
 Dialectology / language resources · 2026
 
 Author: Atharva Chourey
@@ -34,3 +36,7 @@ Every quantitative claim in the paper is traced to its source file in [SOURCES.m
 ## Licence
 
 This work is licensed under a [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt it with attribution to Atharva Chourey, Atharva Chourey Lab.
+
+## Cite this work
+
+Chourey, Atharva (Atharva Chourey Lab). Public manuscript record, v1.0.0-publication. Zenodo. https://doi.org/10.5281/zenodo.24409285
