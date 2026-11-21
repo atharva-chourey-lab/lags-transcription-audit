@@ -1,0 +1,32 @@
+{
+  "access_right": "open",
+  "creators": [
+    {
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "name": "Chourey, Atharva",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "description": "The Linguistic Atlas of the Gulf States (LAGS; interviews 1968–83) survives online as 1,082 informant folders of audio at the Linguistic Atlas Project; its formal products — most recently DASS2019 — have used only 64 speakers. We pre-registered a transcription-fidelity audit of the pile: re-transcribe every informant's audio with a general automatic speech recognition (ASR) ruler and score agreement with the original transcriptions. The audit's first finding is that the comparison cannot be run: the folders contain no transcriptions. The per-informant .xml is an audio segment index, not a transcript; each folder's only text is a biography; verbatim transcripts exist only for DASS2019's 64, in a separate tree. We therefore report (i) a census and index-integrity audit, and (ii) the pre-registered calibration gate on the curated anchor. The census finds 983 of 1,082 folders (90.9%) hold audio and index, totalling 70,542 segment MP3s across 5,807 reels; but the index disagrees with the files in both directions — 939 indexed segments (1.45%) absent on disk and 962 files unindexed (1,901 in all), including a column-scrambled index and a folder whose 81 indexed segments have no audio. The calibration gate fails: re-transcribing two DASS2019 speakers' pile MP3 segments (reel 1; 18,425 reference words) with Whisper large-v3 yields word agreement of 57.4% and 64.9% (pooled 61.9%), far below the pre-registered 85% fitness bar. Per the pre-registration, no fidelity claim is made for the ~850 never-audited informants: the stranded majority of a foundational dialect survey is auditable only for completeness and index integrity.",
+  "keywords": [
+    "LAGS",
+    "Linguistic Atlas of the Gulf States",
+    "dialect archive",
+    "archive audit",
+    "ASR calibration",
+    "Whisper",
+    "index integrity"
+  ],
+  "license": "cc-by-4.0",
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis).",
+  "publication_type": "preprint",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/lags-transcription-audit",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "title": "The Transcripts Were Never There: A Full-Pile Audit of the Linguistic Atlas of the Gulf States Web Archive, and a Failed Calibration for ASR Re-Transcription",
+  "upload_type": "publication"
+}
